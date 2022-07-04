@@ -1,0 +1,15 @@
+C:\Personal Projects\Github\Github.Service\bin\Debug\net6.0\Github.Service.deps.json
+C:\Personal Projects\Github\Github.Service\bin\Debug\net6.0\Github.Service.dll
+C:\Personal Projects\Github\Github.Service\bin\Debug\net6.0\Github.Service.pdb
+C:\Personal Projects\Github\Github.Service\bin\Debug\net6.0\Github.DataAccess.dll
+C:\Personal Projects\Github\Github.Service\bin\Debug\net6.0\Github.DataAccess.pdb
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.csproj.AssemblyReference.cache
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.AssemblyInfoInputs.cache
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.AssemblyInfo.cs
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.csproj.CopyComplete
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.dll
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\refint\Github.Service.dll
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\Github.Service.pdb
+C:\Personal Projects\Github\Github.Service\obj\Debug\net6.0\ref\Github.Service.dll

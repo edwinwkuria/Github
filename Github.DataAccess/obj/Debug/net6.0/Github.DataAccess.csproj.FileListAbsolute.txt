@@ -1,0 +1,12 @@
+C:\Personal Projects\Github\Github.DataAccess\bin\Debug\net6.0\Github.DataAccess.deps.json
+C:\Personal Projects\Github\Github.DataAccess\bin\Debug\net6.0\Github.DataAccess.dll
+C:\Personal Projects\Github\Github.DataAccess\bin\Debug\net6.0\Github.DataAccess.pdb
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.csproj.AssemblyReference.cache
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.AssemblyInfoInputs.cache
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.AssemblyInfo.cs
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.dll
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\refint\Github.DataAccess.dll
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\Github.DataAccess.pdb
+C:\Personal Projects\Github\Github.DataAccess\obj\Debug\net6.0\ref\Github.DataAccess.dll
